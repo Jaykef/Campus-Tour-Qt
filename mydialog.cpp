@@ -1,9 +1,9 @@
 /*****************************************
 File name:      mydialog.cpp
-Author:         luolewin
+Author:         Jaykef
 Version:        v1.0
 Description:    实现校园导航子窗口的主要功能
-Date:           2020.12.17
+Date:           2022.10.6
 *****************************************/
 
 #include "mydialog.h"
